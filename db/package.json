@@ -1,0 +1,19 @@
+{
+  "name": "setlist-setup-api",
+  "version": "1.0.0",
+  "description": "API for my Setlist Setup Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaolavelino/setlist-setup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.2"
+  }
+}
